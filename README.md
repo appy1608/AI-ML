@@ -1,4 +1,4 @@
-# AI-ML
+# SMS Classification (SPAM-HAM) using LSTM
 
 I have tried a very basic implementation of RNN on a text classification task. I have found the dataset (spam.csv) from Kaggle.
 
